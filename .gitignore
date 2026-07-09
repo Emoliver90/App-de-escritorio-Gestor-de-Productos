@@ -1,0 +1,16 @@
+# Bytecode y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de PyCharm (se pueden regenerar, no aportan valor en el repo)
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
